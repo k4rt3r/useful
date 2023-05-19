@@ -1,11 +1,21 @@
 # Gathering of useful data/workarounds/links
 
-1. Visual Studio
-    1. Successfully rename projects in Visual Studio
-2. React Native
-    1. React Native utils
+<ol>
+  <li>Visual Studio
+    <ol>
+      <li>Successfully rename projects</li>
+    </ol>
+  </li>
+  <li>React Native
+    <ol>
+      <li>Clean Bin and Obj on MAC</li>
+      <li>Nuke Dependencies script</li>
+      <li>Release test version</li>
+    </ol>
+  </li>
+</ol>
 
 # Links
 
-1. Markdown Basics [Here](https://www.markdownguide.org/basic-syntax/)
+1. [Markdown Basics](https://www.markdownguide.org/basic-syntax/)
     
