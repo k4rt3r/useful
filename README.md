@@ -1,4 +1,8 @@
-# Repo to gather useful data/workarounds
+# Gathering of useful data/workarounds/links
 
 1. Successfully rename projects in Visual Studio
-2. A
+2. React Native utils
+
+
+# Links
+
