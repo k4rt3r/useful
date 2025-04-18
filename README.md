@@ -25,4 +25,6 @@
 1. [Markdown Basics](https://www.markdownguide.org/basic-syntax/)
 2. [No Github](https://nogithub.codeberg.page)
 3. [Linkedin Tests](https://nogithub.codeberg.page)
+4. [Nelly Tools Discord](https://nelly.tools/tags)
+5. [No Hello](https://nohello.net/en/)
     
